@@ -1,0 +1,269 @@
+Informe del paquete
+
+-----------------------------------------------------------------------------
+Documento:
+Nombre: mobile-mtgroup-home.ai
+Modo de color: Color RGB
+Perfil de color: sRGB IEC61966-2.1
+Unidades de regla: píxeles
+Dimensiones de la mesa de trabajo: 321,6923 px x 570,4494 px
+Mostrar imágenes en modo contorno: Desactivado
+Resaltar fuentes sustituidas: Desactivado
+Resaltar glifos sustituidos: Desactivado
+Conservar capacidad de edición de texto
+Simular papel de color: Desactivado
+
+-----------------------------------------------------------------------------
+Objetos de tintas planas:
+
+-----------------------------------------------------------------------------
+Fuentes no disponibles:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes protegidas no empaquetadas:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes:
+Gotham Narrow Bold (OTF)
+Gotham Narrow Book (OTF)
+Gotham Narrow Medium (OTF)
+Brandon Grotesque Medium (OTF)
+CF TechnoRama Slanted (TrueType)
+Myriad Pro (OTF)
+QUBO Regular (OTF)
+Space Age (TrueType)
+
+-----------------------------------------------------------------------------
+Fuentes incrustadas:
+Ninguno
+
+-----------------------------------------------------------------------------
+Enlaces no disponibles:
+Ninguno
+
+-----------------------------------------------------------------------------
+Imágenes enlazadas:
+
+C:\Users\sebamsg\Desktop\Macher\MTgroup\Sitio\Home\desktop\botones\sombra.psd
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 9613K, 2476 por 994 píxeles
+Dimensiones: 211,059 por 84,73 puntos 
+Resolución: 844,655 por 844,655 píxeles por pulgada
+
+
+C:\Users\sebamsg\Desktop\Macher\MTgroup\Sitio\Home\imágenes mtgroup home\ibm servidor x3850 m2\secundario\cpu\intelxeon.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 3589K, 986 por 932 píxeles
+Dimensiones: 237,619 por 237,301 puntos 
+Resolución: 298,763 por 282,78 píxeles por pulgada
+
+
+C:\Users\sebamsg\Desktop\Macher\Fluogas_Carpeta\imagenes\fondos\03 LOW.jpg
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 2193K, 1024 por 731 píxeles
+Dimensiones: 320,055 por 946,504 puntos 
+Resolución: 230,361 por 55,607 píxeles por pulgada
+
+
+C:\Users\sebamsg\Desktop\Macher\MTgroup\Sitio\Home\desktop\botones\sombra.psd
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 9613K, 2476 por 994 píxeles
+Dimensiones: 189,121 por 204,028 puntos 
+Resolución: 942,636 por 350,776 píxeles por pulgada
+
+
+C:\Users\sebamsg\Desktop\Macher\MTgroup\Sitio\Home\imágenes mtgroup home\ibm servidor x3850 m2\secundario\almacenamiento\disco-duro-interno-de-1tb-toshiba-p300-4_l_l.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 3610K, 1027 por 900 píxeles
+Dimensiones: 212,616 por 186,323 puntos 
+Resolución: 347,782 por 347,782 píxeles por pulgada
+
+
+C:\Users\sebamsg\Desktop\Macher\Fluogas_Carpeta\imagenes\fondos\03 LOW.jpg
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 2193K, 1024 por 731 píxeles
+Dimensiones: 320,055 por 725,047 puntos 
+Resolución: 230,361 por 72,591 píxeles por pulgada
+
+
+C:\Users\sebamsg\Desktop\Macher\MTgroup\Sitio\Home\imágenes mtgroup home\ibm servidor x3850 m2\secundario\ram\Imagen1.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 3774K, 1363 por 709 píxeles
+Dimensiones: 205,902 por 251,218 puntos 
+Resolución: 476,615 por 203,202 píxeles por pulgada
+
+
+C:\Users\sebamsg\Desktop\Macher\MTgroup\Sitio\Home\desktop\botones\sombra.psd
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 9613K, 2476 por 994 píxeles
+Dimensiones: 184,391 por 199,712 puntos 
+Resolución: 966,813 por 358,357 píxeles por pulgada
+
+
+C:\Users\sebamsg\Desktop\Macher\Fluogas_Carpeta\imagenes\fondos\03 LOW.jpg
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 2193K, 1024 por 731 píxeles
+Dimensiones: 320,055 por 725,047 puntos 
+Resolución: 230,361 por 72,591 píxeles por pulgada
+
+
+C:\Users\sebamsg\Desktop\Macher\MTgroup\Sitio\Home\imágenes mtgroup home\ibm servidor x3850 m2\secundario\memoria\memoria.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 4726K, 1100 por 1100 píxeles
+Dimensiones: 241,822 por 241,822 puntos 
+Resolución: 327,513 por 327,513 píxeles por pulgada
+
+
+C:\Users\sebamsg\Desktop\Macher\MTgroup\Sitio\Home\desktop\botones\sombra.psd
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 9613K, 2476 por 994 píxeles
+Dimensiones: 242,782 por 176,716 puntos 
+Resolución: 734,288 por 404,988 píxeles por pulgada
+
+
+C:\Users\sebamsg\Desktop\Macher\MTgroup\Sitio\Home\imágenes mtgroup home\ibm servidor x3850 m2\x3850espejo.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 9815K, 1745 por 1440 píxeles
+Dimensiones: 269,224 por 222,168 puntos 
+Resolución: 466,674 por 466,674 píxeles por pulgada
+
+
+C:\Users\sebamsg\Desktop\Macher\Fluogas_Carpeta\imagenes\fondos\03 LOW.jpg
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 2193K, 1024 por 731 píxeles
+Dimensiones: 320,055 por 720,913 puntos 
+Resolución: 230,361 por 73,007 píxeles por pulgada
+
+
+C:\Users\sebamsg\Desktop\Macher\MTgroup\Sitio\Home\mobile\categoria\fondo server.psd
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 132K, 324 por 140 píxeles
+Dimensiones: 324 por 140 puntos 
+Resolución: 72 por 72 píxeles por pulgada
+
+
+C:\Users\sebamsg\Desktop\Macher\MTgroup\Sitio\Home\mobile\categoria\fondo server.psd
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 132K, 324 por 140 píxeles
+Dimensiones: 324 por 140 puntos 
+Resolución: 72 por 72 píxeles por pulgada
+
+
+C:\Users\sebamsg\Desktop\Macher\MTgroup\Sitio\Home\mobile\categoria\fondo server.psd
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 132K, 324 por 140 píxeles
+Dimensiones: 324 por 140 puntos 
+Resolución: 72 por 72 píxeles por pulgada
+
+
+C:\Users\sebamsg\Desktop\Macher\MTgroup\Sitio\Home\mobile\categoria\fondo server.psd
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 132K, 324 por 140 píxeles
+Dimensiones: 324 por 140 puntos 
+Resolución: 72 por 72 píxeles por pulgada
+
+
+C:\Users\sebamsg\Desktop\Macher\Fluogas_Carpeta\imagenes\fondos\03 LOW.jpg
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 2193K, 1024 por 731 píxeles
+Dimensiones: 320,055 por 725,047 puntos 
+Resolución: 230,361 por 72,591 píxeles por pulgada
+
+
+C:\Users\sebamsg\Desktop\Macher\Fluogas_Carpeta\imagenes\fondos\03 LOW.jpg
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 2193K, 1024 por 731 píxeles
+Dimensiones: 322 por 1021,024 puntos 
+Resolución: 228,969 por 51,548 píxeles por pulgada
+
+
+C:\Users\sebamsg\Desktop\Macher\Fluogas_Carpeta\imagenes\fondos\03 LOW.jpg
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 2193K, 1024 por 731 píxeles
+Dimensiones: 393,621 por 306,755 puntos 
+Resolución: 187,307 por 171,577 píxeles por pulgada
+
+
+C:\Users\sebamsg\Desktop\Macher\Fluogas_Carpeta\imagenes\fondos\03 LOW.jpg
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 2193K, 1024 por 731 píxeles
+Dimensiones: 320,055 por 725,047 puntos 
+Resolución: 230,361 por 72,591 píxeles por pulgada
+
+
+C:\Users\sebamsg\Desktop\Macher\MTgroup\Sitio\Home\imágenes mtgroup home\ibm servidor x3850 m2\x3850espejo.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 9815K, 1745 por 1440 píxeles
+Dimensiones: 269,224 por 222,168 puntos 
+Resolución: 466,674 por 466,674 píxeles por pulgada
+
+
+C:\Users\sebamsg\Desktop\Macher\MTgroup\Sitio\Home\desktop\botones\sombra.psd
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 9613K, 2476 por 994 píxeles
+Dimensiones: 211,059 por 84,73 puntos 
+Resolución: 844,655 por 844,655 píxeles por pulgada
+
+
+C:\Users\sebamsg\Desktop\Macher\MTgroup\Sitio\Home\imágenes mtgroup home\ibm servidor x3850 m2\secundario\cpu\intelxeon.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 3589K, 986 por 932 píxeles
+Dimensiones: 237,619 por 237,301 puntos 
+Resolución: 298,763 por 282,78 píxeles por pulgada
+
+
+C:\Users\sebamsg\Desktop\Macher\Fluogas_Carpeta\imagenes\fondos\03 LOW.jpg
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 2193K, 1024 por 731 píxeles
+Dimensiones: 320,055 por 725,047 puntos 
+Resolución: 230,361 por 72,591 píxeles por pulgada
